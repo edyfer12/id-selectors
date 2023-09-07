@@ -1,1 +1,5 @@
 /* Apply style to the ID selector */
+
+#info {
+    color:red;
+}
