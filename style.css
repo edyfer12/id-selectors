@@ -5,3 +5,7 @@
 }
 
 /* Apply style to the ID selector */
+
+#first {
+    color: green;
+}
